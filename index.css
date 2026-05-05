@@ -1,0 +1,25 @@
+body{
+    margin: 20px;
+    color: #2b2839;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+.Per{
+    width: 150px;
+    }
+.card{
+    margin: auto;
+    width: 400px;
+    padding: 20px;
+    background-color: #ddebf8 ;
+    display: flex;
+    justify-content: space-around;
+    border-bottom: 4px solid #bcb1c4;
+}
+.card-writing{
+    padding: 10px;
+    text-align: center;
+}
+.hover:hover{
+    color: rgb(67, 119, 165);
+}
